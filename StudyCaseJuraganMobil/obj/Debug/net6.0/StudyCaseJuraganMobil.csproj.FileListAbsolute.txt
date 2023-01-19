@@ -1,0 +1,15 @@
+D:\KUROnime\Bootcamp\C#\StudyCaseJuraganMobilSolution\StudyCaseJuraganMobil\bin\Debug\net6.0\StudyCaseJuraganMobil.exe
+D:\KUROnime\Bootcamp\C#\StudyCaseJuraganMobilSolution\StudyCaseJuraganMobil\bin\Debug\net6.0\StudyCaseJuraganMobil.deps.json
+D:\KUROnime\Bootcamp\C#\StudyCaseJuraganMobilSolution\StudyCaseJuraganMobil\bin\Debug\net6.0\StudyCaseJuraganMobil.runtimeconfig.json
+D:\KUROnime\Bootcamp\C#\StudyCaseJuraganMobilSolution\StudyCaseJuraganMobil\bin\Debug\net6.0\StudyCaseJuraganMobil.dll
+D:\KUROnime\Bootcamp\C#\StudyCaseJuraganMobilSolution\StudyCaseJuraganMobil\bin\Debug\net6.0\StudyCaseJuraganMobil.pdb
+D:\KUROnime\Bootcamp\C#\StudyCaseJuraganMobilSolution\StudyCaseJuraganMobil\obj\Debug\net6.0\StudyCaseJuraganMobil.csproj.AssemblyReference.cache
+D:\KUROnime\Bootcamp\C#\StudyCaseJuraganMobilSolution\StudyCaseJuraganMobil\obj\Debug\net6.0\StudyCaseJuraganMobil.GeneratedMSBuildEditorConfig.editorconfig
+D:\KUROnime\Bootcamp\C#\StudyCaseJuraganMobilSolution\StudyCaseJuraganMobil\obj\Debug\net6.0\StudyCaseJuraganMobil.AssemblyInfoInputs.cache
+D:\KUROnime\Bootcamp\C#\StudyCaseJuraganMobilSolution\StudyCaseJuraganMobil\obj\Debug\net6.0\StudyCaseJuraganMobil.AssemblyInfo.cs
+D:\KUROnime\Bootcamp\C#\StudyCaseJuraganMobilSolution\StudyCaseJuraganMobil\obj\Debug\net6.0\StudyCaseJuraganMobil.csproj.CoreCompileInputs.cache
+D:\KUROnime\Bootcamp\C#\StudyCaseJuraganMobilSolution\StudyCaseJuraganMobil\obj\Debug\net6.0\StudyCaseJuraganMobil.dll
+D:\KUROnime\Bootcamp\C#\StudyCaseJuraganMobilSolution\StudyCaseJuraganMobil\obj\Debug\net6.0\refint\StudyCaseJuraganMobil.dll
+D:\KUROnime\Bootcamp\C#\StudyCaseJuraganMobilSolution\StudyCaseJuraganMobil\obj\Debug\net6.0\StudyCaseJuraganMobil.pdb
+D:\KUROnime\Bootcamp\C#\StudyCaseJuraganMobilSolution\StudyCaseJuraganMobil\obj\Debug\net6.0\StudyCaseJuraganMobil.genruntimeconfig.cache
+D:\KUROnime\Bootcamp\C#\StudyCaseJuraganMobilSolution\StudyCaseJuraganMobil\obj\Debug\net6.0\ref\StudyCaseJuraganMobil.dll
